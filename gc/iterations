@@ -1,0 +1,11 @@
+1. 2 point sources (detected at 15.0$\sigma$). 
+Spectrum of Src001 (GC) changed to the exponential cutoff power-law with the pivot energy 1 TeV. 
+2. IEM added.
+3. 2 point sources (Src003 and Src004, detected at 15.0$\sigma$ in the residual map) added.
+4. 4 sources: 2 point (Src001 and Src002) and 2 extended (Src003 and Src004 - radial disks) +IEM.
+5. 4 sources: 2 point (Src001 and Src002) and 2 extended (Src003 and Src004 - radial Gaussians) +IEM.
+6. 6 point sources (Src005, Src006, Src007, Src008, Src009 and Src010, detected at 7.0$\sigma$ in the residual map) added.
+7. 10 sources: 6 point (Src001, Src002, Src005, Src008, Src009 and Src010) and 4 extended (Src003 and Src004 - radial Gaussians, Src006 and Src007 - radial disks) +IEM.
+8. 10 sources: 6 point (Src001, Src002, Src005, Src008, Src009 and Src010) and 4 extended (Src003, Src004, Src006 and Src007 -- radial Gaussians) +IEM.
+9. 6 point sources (Src011, Src012, Src013, Src014, Src015 and Src016, detected at 5.0$\sigma$ in the residual map) added.
+10. 16 sources: 10 point (Src001, Src002, Src005, Src008, Src009, Src010, Src012, Src013, Src015 and Src016) and 6 extended (Src003, Src004, Src006 and Src007 - radial Gaussians, Src011 and Src014 - radial disks) +IEM.
